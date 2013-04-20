@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quizz\'n World Capitals</string>
+    <string name="categories_text">Categories</string>
+	<string name="reverse_button">Quiz On Countries</string>
+	<string name="reverse_button_opposite">Quiz On Capitals</string>
+	<string name="eula_title">License Agreement</string>
+	<string name="eula_accept">Accept</string>
+	<string name="eula_refuse">Refuse</string>
+</resources>
